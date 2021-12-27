@@ -6,6 +6,6 @@ As I got into SDR, RF and Signal Inteligence, I doubted if I could hack, reverse
 
 This is the repository in which I plan to store IQ files and documentation of the project.
 
-### [Click here for the full article](https://medium.com/p/0000000000)
+### [Click here for the full article](https://medium.com/@abmaeld/hacking-my-alarm-system-27278cb4d1)
 
 
